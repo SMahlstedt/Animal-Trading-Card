@@ -1,0 +1,31 @@
+body {
+	font-family: "helvetica arial";
+	margin: 0px;
+}
+span{
+	font-weight: bold;
+}
+img {
+	width: 300px;
+	height: auto;
+    padding-bottom: 10px;
+   	display: block;
+    margin: 0 auto;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.main {
+ 	border: 1px solid gray;
+	width: 300px;
+	background-color: white;
+	padding: 12px;
+	margin: 20px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.1);
+}
+.information {
+	border: 1px solid gray;
+	padding: 0px 10px;
+}
